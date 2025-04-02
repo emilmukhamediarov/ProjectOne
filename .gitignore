@@ -1,0 +1,29 @@
+# Compiled Java class files
+*.class
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# macOS system files
+.DS_Store
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build and output directories
+/bin/
+/target/
+out/
+
+# Gradle & Maven
+.gradle/
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
